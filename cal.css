@@ -1,0 +1,41 @@
+body{
+	height: 100%;
+	background-color:black;
+}
+
+#aa {
+    width: 300px;
+	height: 470px;
+	vertical-align: middle;
+	background-color: #5d6d7e ;
+	border: 3px solid black;
+	padding-top: 15px;
+	position: relative;
+	margin: 15px;
+    padding: 10px;
+    margin: auto;
+
+}
+#aa:hover{
+	background-color: grey;	
+}
+#head{
+	width: 150px;
+	color:white;	
+}
+.b7{
+	background-color: #000000;
+	border: 1px solid black;
+    color: white;
+	margin: 5px;
+	font-size: 20px;
+	text-align: center;
+	display: inline-block;
+}
+.b7:hover{
+	background-color: white;
+	color: #000000;
+}
+.input{
+	border: 2px solid grey;
+}
